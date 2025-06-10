@@ -1,6 +1,7 @@
 # Obsidian 图片轮播插件
 
 这是一个用于 Obsidian 的图片轮播插件，可以让您在笔记中优雅地展示多张图片。
+[插件下载](https://github.com/dxconia/Obsidian-Image-Carousel-Plugin/raw/Obsidian-Image-Carousel-Plugin/image-carousel-plugin.zip)
 
 ## 主要功能
 
